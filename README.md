@@ -1,0 +1,2 @@
+# C Pointer Arithmetic Bug
+This repository contains a simple C program that demonstrates a common error related to pointer arithmetic. The program attempts to modify the value of a variable using a pointer, but it does so incorrectly leading to unexpected behavior or errors.  The solution provides the correct way to handle pointer arithmetic and modify variable values.
